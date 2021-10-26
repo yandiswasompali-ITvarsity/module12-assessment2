@@ -1,0 +1,56 @@
+
+h1{
+  text-decoration: double;
+  text-align: center;
+  color: #2c1413;
+}
+body {
+  font-family: Arial;
+  padding: 50;
+  margin: 40;
+  background: #ccdada;
+  }
+  input {
+    width: 100%;
+  }
+  tr{
+    height: 1px;
+    background-color: #4c9797;
+}
+
+td{
+    width: 20vw;
+    border: solid #4e7fa7;
+}
+
+table{
+  color: #fff;
+  text-align: center;
+  border-collapse: collapse;
+  font: normal 3em Arial, Helvitica, sans-serif;
+}
+
+  
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
